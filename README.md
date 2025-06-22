@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de **README.md simples, direto e iniciante** para você colocar no seu repositório do GitHub:
-
----
-
 # 📊 Análise de Evasão de Clientes (Churn) - TelecomX
 
 Este projeto tem como objetivo analisar o comportamento de clientes da TelecomX, identificando os principais fatores que influenciam a evasão (cancelamento dos serviços).
